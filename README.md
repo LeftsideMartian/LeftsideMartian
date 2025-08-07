@@ -1,7 +1,7 @@
 # Hi, I'm Matthew 🙌
 
 ## 💫 About Me:
-📚 Currently studying a Bachelor of IT at UTS<br>
+📚 Currently studying the Bachelor of IT Co-op at UTS<br>
 ⚙️ I am majoring in Enterprise System Development<br>
 💻 I am currently working on a full stack application called PassionIt<br>
 🧠 Currently learning Springboot for backend applications<br>
